@@ -41,7 +41,7 @@ services:
     volumes:
       - ./client:/var/www/client
     working_dir: /var/www/client
-    command: bash -c "npm run serve"
+    #command: bash -c "npm run serve"
     tty: true
     links:
       - nodeserver
