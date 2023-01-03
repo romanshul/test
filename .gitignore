@@ -1,0 +1,7 @@
+.idea
+client/node_modules
+expressjs/.idea
+expressjs/node_modules
+docker/db/*
+client/.git
+expressjs/.git
